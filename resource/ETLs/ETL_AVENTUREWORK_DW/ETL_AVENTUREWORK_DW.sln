@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL_AVENTUREWORK_DW", "ETL_AVENTUREWORK_DW\ETL_AVENTUREWORK_DW.dtproj", "{6317E1CB-8AA4-49D5-9BCF-11141CF991B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6317E1CB-8AA4-49D5-9BCF-11141CF991B0}.Development|Default.ActiveCfg = Development
+		{6317E1CB-8AA4-49D5-9BCF-11141CF991B0}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

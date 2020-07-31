@@ -1,0 +1,5 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Procedimiento}{1}% 
+\contentsline {section}{\numberline {2}ACTIVIDAD 01 Creaci\IeC {\'o}n de un Data Source}{1}% 
+\contentsline {section}{\numberline {3}ACTIVIDAD 02 Creaci\IeC {\'o}n de un Data Source View}{6}% 
+\contentsline {section}{\numberline {4}ACTIVIDAD 03 Creaci\IeC {\'o}n de un Cubo}{8}% 
